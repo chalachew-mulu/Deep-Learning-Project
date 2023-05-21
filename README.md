@@ -1,1 +1,1 @@
-# Deep-Learning-Project
+Music Genre Classification based on Mel Spectrograms image 
