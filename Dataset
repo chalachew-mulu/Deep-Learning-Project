@@ -1,1 +1,3 @@
-
+The Dataset is taken from GTZAN
+which have 10 genres each having 1000 audio and and specrogram image files
+we utilize the spectrogram image for CNN model
