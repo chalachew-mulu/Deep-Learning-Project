@@ -1,3 +1,5 @@
-The Dataset is taken from GTZAN
-which have 10 genres each having 1000 audio and and specrogram image files
-we utilize the spectrogram image for CNN model
+The GTZAN dataset is used for this music genre classification project work 
+this dataset is commonly used for evaluating machine learning algorithms for music genre recognition tasks.
+It contains 1000 audio tracks of 30 seconds each and its sepectogram image, equally distributed among 10 different genres of
+western popular music: blues, classical, country, disco, hiphop, jazz, metal, pop, reggae, and rock.
+We use the spectogram image and we developed a CNN model for music genre classfication task
